@@ -1,7 +1,7 @@
-tensorflow==2.16.2
+tensorflowpip show tensorflow
 pandas 
 numpy 
 scikit-learn
-pmatplotlib
+matplotlib
 streamlit
 scikeras
